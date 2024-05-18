@@ -1,4 +1,4 @@
-# cuda
+# CUDA
 Some CUDA basics for the Tech Talk series on accelerated computing
 
 # My University of Idaho TechTalk Video - May 2024
